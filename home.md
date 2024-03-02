@@ -19,17 +19,17 @@ Cops and Robbers V (formerly known as GTA Cops and Robbers, GTA CnR, or simply C
 Keybinds play a crucial role in enhancing your gameplay efficiency and response time in CnR. This guide will provide you with two methods to set keybinds: through the Interaction Menu (M key) and the Console (F8 key). 
 
 Interaction Menu (M Key):
-| Press the M key to open the Interaction Menu.
-| Navigate to "Options" and select "Hotkeys."
-| Assign a specific keybind to each action by selecting the corresponding key (1 to 10) and choosing the desired actions.
-| Experiment with different keybinds to find what works best for your playstyle.
+> Press the M key to open the Interaction Menu.
+> Navigate to "Options" and select "Hotkeys."
+> Assign a specific keybind to each action by selecting the corresponding key (1 to 10) and choosing the desired actions.
+> Experiment with different keybinds to find what works best for your playstyle.
 By default, these binds will be at keyboard 1 to 0, but you can change each of them in the Pause Menu > Settings > Key Bindings > FiveM > (gtacnr) Hotkey 
 
 Console (F8 Key):
-| Press the F8 key to open the Console.
-| Use the command *`bind keyboard [key] "command"`* to assign a keybind. For example, *`bind keyboard J "equip weapon_stungun"`* binds the key J to equip the Stun Gun.
-| Test the keybind in-game to ensure it functions as intended.
-| To unbind a key, use the command *`unbind keyboard [key]`*
+> Press the F8 key to open the Console.
+> Use the command *`bind keyboard [key] "command"`* to assign a keybind. For example, *`bind keyboard J "equip weapon_stungun"`* binds the key J to equip the Stun Gun.
+> Test the keybind in-game to ensure it functions as intended.
+> To unbind a key, use the command *`unbind keyboard [key]`*
 
 ## Team
 
