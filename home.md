@@ -5,7 +5,7 @@ Cops and Robbers V (formerly known as GTA Cops and Robbers, GTA CnR, or simply C
 ## Gameplay
 
 ### Kill players without getting banned
-- **[Know the rules!](https://gtacnr.net/full_rules)**Knowing the rules is the best way to avoid all bans 👍 
+- [**Know the rules!**](https://gtacnr.net/full_rules): Knowing the rules is the best way to avoid all bans 👍 
 - **Defense of Life**: Engage in combat when your life or your friends' lives are in immediate danger.
 - **Players with Bounties**: Engaging in combat is always allowed against players who have bounties on their heads (not for EMS).
 - **Kills in Revenge**: Combat is permissible when you're a **civillian** seeking revenge against players who have previously attacked you or cops who have arrested you. to make sure you're allowed to kill that player, type in chat /revenge (in non-hardcore servers you will find a red ring around the player's blip in map).
