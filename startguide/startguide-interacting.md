@@ -1,0 +1,2 @@
+# Starter Guide - Interacting with Others
+When you walk up to a player and interact with them, a special menu is opened that shows you your options players can give each other items and money, bribe police officers, and uncuff one another as criminals while interacting.
