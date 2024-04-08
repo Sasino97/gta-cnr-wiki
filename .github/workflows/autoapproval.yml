@@ -16,3 +16,8 @@ jobs:
       - uses: dkhmelenko/autoapproval@v1.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+from_owner:
+  - Golfistayt
+  - Sasino97
+required_labels: []
+apply_labels: []
