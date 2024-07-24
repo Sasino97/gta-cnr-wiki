@@ -11,5 +11,3 @@
         - [Robbing](crimguide/robbery)
         - [Pickpocketing](crimguide/pickpocket)
         - [Exporting](crimguide/exporting)
-- Test
-- [Test 2](home)
