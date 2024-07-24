@@ -1,0 +1,15 @@
+- [Home](home)
+- Guides
+    - Starter Guide
+        - [Intro](startguide/startguide-homepage)
+        - [Money](startguide/startguide-basicmoney)
+        - [Levels](startguide/startguide-levels)
+        - [Death](startguide/startguide-death)
+        - [Weapons](startguide/startguide-weapons)
+    - Criminal Guide
+        - [Intro](crimguide/crimguide-homepage)
+        - [Robbing](crimguide/crimguide-robbery)
+        - [Pickpocketing](crimguide/crimguide-pickpocket)
+        - [Exporting](crimguide/crimguide-exporting)
+- Test
+- [Test 2](home)
