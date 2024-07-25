@@ -2,12 +2,71 @@
 - Guides
     - Starter Guide
         - [Intro](startguide/homepage)
-        - [Money](startguide/basicmoney)
+        - [Money](startguide/money)
         - [Levels](startguide/levels)
+        - [Jobs](startguide/jobs)
+        - [Colors](startguide/colors)
         - [Death](startguide/death)
+        - [Hospitals](startguide/hospitals)
+        - [Communication](startguide/communication)
+        - [Interacting](startguide/interacting)
+        - [Interaction Menu](startguide/interactionmenu)
+        - [Player List](startguide/playerlist)
         - [Weapons](startguide/weapons)
+        - [Redzones](startguide/redzones)
+        - [Reports](startguide/reports)
+        - [Staff](startguide/staff)
+        - [Hotkeys](startguide/hotkeys)
+        - [Weapons](startguide/weapons)
+
     - Criminal Guide
         - [Intro](crimguide/homepage)
+        - [What do I do?](crimguide/whatdoido)
+        - [Wanted Level](crimguide/wantedlevel)
+        - [Uncuffing](crimguide/uncuff)
+        - [Should I Stay or Should I Go?](crimguide/fightorflight)
         - [Robbing](crimguide/robbery)
         - [Pickpocketing](crimguide/pickpocket)
         - [Exporting](crimguide/exporting)
+        - [Drug Dealing](crimguide/drugs)
+        - [Bounty Hunting](crimguide/bounties)
+        - [Hacking](crimguide/atmhack)
+        - [Revenge](crimguide/revenge)
+        - [UBI](crimguide/freemoney)
+
+     - Police Officer Guide   
+        - [Intro](copguide/homepage)
+        - [What do I do?](copguide/whatdoido)
+        - [Armory](copguide/armory)
+        - [Responding](copguide/responding)
+        - [Police Scanner](copguide/radio)
+        - [Eliminate or Apprehend?](copguide/takedownorarrest)
+        - [Bribery](copguide/menubribes)
+        - [Paycheck](copguide/freemoney)
+         - [Uniforms](copguide/uniforms)
+         - [Undercover](copguide/undercover)
+
+     - Medic Guide   
+        - [Intro](emsguide/homepage)
+        - [What do I do?](emsguide/whatdoido)
+        - [Responding](emsguide/responding)
+        - [Healing](emsguide/healing)
+        - [Reviving](emsguide/reviving)
+        - [Combat](emsguide/engagement)
+        - [Paycheck](emsguide/freemoney)
+
+     - Drug Dealer Guide
+        - [Intro](ddguide/homepage)
+        - [What do I do?](ddguide/whatdoido)
+        - [Stocking Up](ddguide/stockingup)
+        - [Selling to Players](ddguide/sellingtoplayers)
+        - [Selling to NPCs](ddguide/sellingtonpcs)
+        - [Managing your Business](ddguide/managing)
+
+    - Mechanic Guide
+        - [Intro](mechguide/homepage)
+        - [What do I do?](mechguide/whatdoido)
+        - [Hardware Stores](mechguide/hardwarestores)
+        - [Pricing](mechguide/pricing)
+        - [Towing](mechguide/towing)
+    

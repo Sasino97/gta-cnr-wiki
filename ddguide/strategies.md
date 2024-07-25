@@ -27,4 +27,4 @@ If you sell with a few dealers at the same time on one spot, it will be a lot ea
 
 If you barricade the entrance to your spot, it gives you a few extra seconds of advantage to prepare for fleeing or fighting the cops! Have a getaway vehicle ready if you want to flee and make it face the direction of the getaway, here is a simple plan for an escape from Drug Spot 11.
 
-ADD PHOTO HERE
+Note - a photo will be added here.
