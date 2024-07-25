@@ -2,7 +2,7 @@
 - Guides
     - Starter Guide
         - [Intro](startguide/homepage)
-        - [Money](startguide/basicmoney)
+        - [Money](startguide/money)
         - [Levels](startguide/levels)
         - [Death](startguide/death)
         - [Weapons](startguide/weapons)
