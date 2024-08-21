@@ -8,4 +8,7 @@ Enter Vehicle makes the suspect enter your last driven vehicle if it is a police
 
 Quick Arrest calls a transport unit for the suspect.
 
-Suggesting a Bribe allows the suspect to bribe you, you get the option to take the bribe for yourself, share it or report the incident.
+Suggesting a Bribe allows the suspect to bribe you, you get the option to take the bribe for yourself, share it or report the incident. Keeping the bribe takes away XP, while sharing or reporting gives it to you.
+
+Watch the gif below to see what happens when a suspect resists arrest.
+
