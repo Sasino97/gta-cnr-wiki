@@ -1,5 +1,5 @@
 # Cop Guide - Uniforms
-As a cop, your uniform is important. At different types of police stations you can find 3 basic uniform classes, accessories and other fun wardrobe items. You can also buy special accessories for cops at ammu-nations, the police armory and clothing stores.
+As a cop, your uniform is important. At different types of police stations you can find 3 basic uniform classes, accessories and other fun wardrobe items. You can also buy special accessories for cops at ammu-nations, the police armory and clothing stores. A good way to make your outfit look more tactical, is mixing crew, staff and police clothing together, which results in wonderful "Spec Ops"-like combinations.
 
 | Uniform              | Location                                      |
 |----------------------|-----------------------------------------------|
