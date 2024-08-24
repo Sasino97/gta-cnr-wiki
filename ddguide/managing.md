@@ -1,7 +1,7 @@
 # Drug Dealer Guide - Managing Drugs
 The job menu will help you keep track of everything related to your stock.
 
-To access your drug dealer job menu, Press 'M' or left middle button and select "Job Menu". 
+To access your drug dealer job menu, Press 'M' or the Select button and select "Job Menu". 
 
 #### Stock: Sales Inventory 
 
@@ -15,3 +15,5 @@ This is a log of all players looking to buy drugs. Go to the location listed and
 #### Your Sales 
 
 This is a great way to keep track of player sales!
+
+Check the gif below for a demonstration.
