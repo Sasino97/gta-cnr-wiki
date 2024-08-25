@@ -30,8 +30,3 @@ Whenever a person has a red name, anyone except of Paramedics can shoot them on 
 
 Players love taking over places such as Gun Club 1 and defending them from cops. Join them and have some fun playing 3D Tower Defense ;D
 
-
-#### Mess Around
-
-If you find some chill people you can really have some fun just going around the map and messing around :D
-

@@ -12,3 +12,4 @@ Alternatively, you can also type **/report ID** in the text chat.
 **METHOD 2 (on discord)**
 
 If you have concrete evidence of a rule breaker, you can start a report in the Reports section as long as you are a verified player and not blacklisted. Don't forget to attach a clip!
+We reccomend clipping CnR V at all times, to avoid having no proof of a rule breaker, good software for this includes Medal, OBS, Radeon Relive, NVIDIA Shadowplay and Xbox Game Bar.

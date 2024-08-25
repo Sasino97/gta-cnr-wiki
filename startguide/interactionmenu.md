@@ -1,4 +1,4 @@
-# Starter Guide - Chatbox
+# Starter Guide - Interaction Menu
 The interaction menu that appears when you press M or the select button is a powerful tool, let's go over it.
 
 Inventory - access your items
