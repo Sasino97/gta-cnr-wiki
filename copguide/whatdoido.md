@@ -20,7 +20,7 @@ Cops often need CAS to deal with dangerous criminals, so hop in that heli and of
 
 #### Bust Drug Dealers
 
-Players can become drug dealers and sell drugs to NPC to make a quick buck. You can make a quick buck by busting them. Most drug dealers operate on the LVL15+ US2 server that has no blips. Crews often go to drug spots in groups, so you need other officers to support you in busting big groups of dealers. You earn money per grams of good stuff seized. '''Drug Dealers are DANGEROUS!''' Most of them will kill themselves or try to take you down just to avoid a bust, be prepared.
+Players can become drug dealers and sell drugs to NPC to make a quick buck. You can make a quick buck by busting them. Most drug dealers operate on the LVL15+ NA2/EU2 servers that have no blips. Crews often go to drug spots in groups, so you need other officers to support you in busting big groups of dealers. You earn money per grams of good stuff seized. '''Drug Dealers are DANGEROUS!''' Most of them will kill themselves or try to take you down just to avoid a bust, be prepared.
 
 #### Take down Robberies
 Players can make bank by going around the map robbing different stores, when they rob one they must keep aiming their gun at the NPC to get their money. If a robbery is happening nearby, turn on your lights and get there as soon as you can. If you get lucky, they will be distracted during the robbery and you will be able to tase them with ease. If they open fire, call for backup and take them down.
