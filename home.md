@@ -1,10 +1,17 @@
 # Cops and Robbers V Wiki
+Cops and Robbers V (formerly known as GTA Cops and Robbers, GTA CnR, or simply CnR) is a [GTA V](https://www.rockstargames.com/gta-v) multiplayer server operated and developed by [Sasinosoft Games](https://sasinosoft.com/), relying on the [FiveM](https://fivem.net/) platform.
 
-Cops and Robbers V (formerly known as GTA Cops and Robbers, GTA CnR, or simply CnR) is a [GTA V](https://www.rockstargames.com/gta-v) multiplayer server operated and developed by [Sasinosoft Games](https://sasinosoft.com/). It is based on the [FiveM](https://fivem.net/) platform. CnR V is not an RP server, as roleplaying is not part of the gameplay and isn't required, but you can play as a police officer, a criminal or a variety of other jobs.
+CNRV is not an RP server, as roleplaying is not part of the gameplay and isn't required, but you can play as a police officer, a criminal or a variety of other jobs.
 
 ## Gameplay
-Cops and Robbers V offers a wide array of jobs to play as and activities to partake in, additionally the server staff often host exhilarating in-game events which pit you against other players in a fight for the reward. Combat zones and hardcore servers await for those that are brave enough to enter them, and tens of custom vehicles are at your disposal.
-<br>
-<br>
+Cops and Robbers V offers a wide array of jobs to play as and activities to partake in. 
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Sasino97/gta-cnr-wiki">GTA CnR Wiki</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://sasinosoft.com">Sasinosoft</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+Additionally the server staff often host exhilarating in-game events which pit you against other players in a fight for the reward. 
+
+Redzones and hardcore servers await for those that are brave enough to enter them.
+
+## Credits
+The content of this guide has been written by [CAFE] Golfi (@golfistayt), based on previous work by SoloGrebe (@sologrebe).
+
+## License
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Sasino97/gta-cnr-wiki">Cops and Robbers V Wiki</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
