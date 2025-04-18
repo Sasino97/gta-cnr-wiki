@@ -17,14 +17,13 @@
         - [Reports](startguide/reports)
         - [Staff](startguide/staff)
         - [Hotkeys](startguide/hotkeys)
-        - [Weapons](startguide/weapons)
 
     - Criminal Guide
         - [Intro](crimguide/homepage)
         - [What do I do?](crimguide/whatdoido)
         - [Wanted Level](crimguide/wantedlevel)
         - [Uncuffing](crimguide/uncuff)
-        - [Should I Stay or Should I Go?](crimguide/fightorflight)
+        - [Fight or Flight](crimguide/fightorflight)
         - [Robbing](crimguide/robbery)
         - [Pickpocketing](crimguide/pickpocketing)
         - [Exporting](crimguide/exporting)
@@ -32,7 +31,7 @@
         - [Bounty Hunting](crimguide/bounties)
         - [Hacking](crimguide/atmhack)
         - [Revenge](crimguide/revenge)
-        - [UBI](crimguide/freemoney)
+        - [Unemployment Checks](crimguide/freemoney)
 
      - Police Officer Guide   
         - [Intro](copguide/homepage)
@@ -40,7 +39,7 @@
         - [Armory](copguide/armory)
         - [Responding](copguide/responding)
         - [Police Scanner](copguide/radio)
-        - [Eliminate or Apprehend?](copguide/takedownorarrest)
+        - [Arrests & Takedowns](copguide/takedownorarrest)
         - [Bribery](copguide/menubribes)
         - [Paycheck](copguide/freemoney)
          - [Uniforms](copguide/uniforms)

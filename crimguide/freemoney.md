@@ -1,4 +1,4 @@
-# Criminal Guide - Universal Basic Income
+# Criminal Guide - Unemployment Checks
 
 Remember who caught Capone? The IRS. Fortunately they don't know about your dirty cash yet and won't break down your door just today. 
 At 12:00PM (Noon) each in-game day, you will recieve an unemployment check for the sum of $10,000, which will be sent to your bank account. 
