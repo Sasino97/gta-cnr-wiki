@@ -10,13 +10,11 @@
     - [Death](basics/death)
     - [Mechanics](basics/mechanics)
     - [Hospitals](basics/hospitals)
-    - [Main Menu](basics/main-menu)
     - [Scoreboard](basics/scoreboard)
     - [Communication](basics/communication)
     - [Commands](basics/commands)
     - [Parties](basics/parties)
     - [Queue](basics/queue)
-    - [Player Interaction](basics/interacting)
     - [Weapons](basics/weapons)
     - [Hotkeys](basics/hotkeys)
     - [Redzones](basics/redzones)
@@ -90,6 +88,20 @@
             - [Managing your Business](ddguide/managing)
         - Arms Dealer
         - Hitman
+
+- Menus
+    - Inventory
+    - Wardrobe
+    - Armory
+    - Job Menu
+    - Phone
+    - Vehicles
+    - Properties
+    - Stats
+    - Options
+    - Help
+    - Player Interaction
+    - Vehicle Dashboard
 
 - Businesses
     - Convenience Store
@@ -194,6 +206,12 @@
     - Ammo
         - Legal
         - Illegal
+
+- Clothes
+- Vehicles
+    - Personal
+    - Job Vehicles
+    - Modding
 
 - Real Estate
     - Warehouses
