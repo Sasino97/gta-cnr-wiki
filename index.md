@@ -26,7 +26,7 @@
         - [Uncuffing](crimguide/uncuff)
         - [Should I Stay or Should I Go?](crimguide/fightorflight)
         - [Robbing](crimguide/robbery)
-        - [Pickpocketing](crimguide/pickpocket)
+        - [Pickpocketing](crimguide/pickpocketing)
         - [Exporting](crimguide/exporting)
         - [Drug Dealing](crimguide/drugs)
         - [Bounty Hunting](crimguide/bounties)
