@@ -1,3 +1,0 @@
-# Starter Guide - Weapons
-Weapons are the pinnacle of America, so they have a special place on our server. To get them, visit a Gun Store, Convenience Store or a Police Armory and buy them for your current loadout. 
-Some weapons and ammo types are illegal and if you are caught and searched with them on you, they may be seized and you will have to rebuy them. You keep your attachments after your weapon is seized.

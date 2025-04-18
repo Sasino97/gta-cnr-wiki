@@ -1,5 +1,5 @@
 # Cops and Robbers V
-Cops and Robbers V (formerly known as GTA Cops and Robbers, GTA CnR, or simply CnR) is a [GTA V](https://www.rockstargames.com/gta-v) multiplayer server operated and developed by [Sasinosoft Games](https://sasinosoft.com/), relying on the [FiveM](https://fivem.net/) platform.
+Cops and Robbers V (formerly known as GTA Cops and Robbers, GTA CnR, or simply CnR) is a [GTA V](https://www.rockstargames.com/gta-v) multiplayer server operated and developed by [Sasinosoft Games](https://sasinosoft.com/), built upon the [FiveM](https://fivem.net/) platform.
 
 CNRV is not an RP server, as roleplaying is not part of the gameplay and isn't required, but you can play as a police officer, a criminal or a variety of other jobs.
 
@@ -9,6 +9,9 @@ Cops and Robbers V offers a wide array of jobs to play as and activities to part
 Additionally the server staff often host exhilarating in-game events which pit you against other players in a fight for the reward. 
 
 Redzones and hardcore servers await for those that are brave enough to enter them.
+
+## ⚠ Under Construction
+The wiki is currently under construction, and a lot of content is still missing. Please, be patient while we work on it, or see the [Contributing](#contributing) section below
 
 ## Credits
 - Golfi (@golfistayt) (main writer)

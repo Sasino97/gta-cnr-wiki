@@ -9,6 +9,17 @@ Click [here](https://www.markdownguide.org/cheat-sheet/) for a cheat sheet so th
 There's an `index.md` file which is used by the CNRV website to automatically generate the navigation tree view. It's basically a simple bullet list with multiple levels of depth. It can be as deep as you want, but we recommend a maximum of 4 levels to keep the navigation tree easily readable.
 
 ## Paths
-The full path of the file determines the URL of the page. For example the file at /startguide/colors.md will be viewable at https://gtacnr.net/wiki/startguide/colors.
+The full path of the file determines the URL of the page. For example the page located in `/basics/colors.md` will be viewable at https://gtacnr.net/wiki/basics/colors.
 
 Page and folder names must be **lowercase**, only contain **alphanumeric** characters (a-z, 0-9) and dashes (no spaces or symbols). The best practice is to separate each word with a dash `-`.
+
+## Images
+In most cases, images should be hosted on the website directly, instead of linked from outside. 
+
+Just send your images to Golfi or Sasino to get them reviewed and added to the content folder. 
+
+Link an image with the following format: `![alt text](image.jpg)`
+
+Content hosted on the server can be linked from the `/wiki-content` folder, for example: `![screenshot](/wiki-content/basics/money/screenshot-1.jpg)`.
+
+Please, make sure that screenshots are saved in the .jpg format, and preferrably in the 16:9 format. Animated images should be in the GIF format. Icons and other small things can be in any format, PNG and SVG preferred for those.

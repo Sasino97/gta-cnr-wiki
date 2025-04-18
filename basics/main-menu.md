@@ -1,5 +1,5 @@
-# Starter Guide - Chatbox
-The interaction menu that appears when you press M or the select button is a powerful tool, let's go over it.
+# Main Menu
+You can display the main menu when you press M or the select button. It's a powerful tool, let's go over it.
 
 Inventory - access your items
 

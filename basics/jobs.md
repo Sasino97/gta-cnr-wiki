@@ -1,11 +1,11 @@
-# Starter Guide - Jobs
+# Jobs
+As you start your journey on CNRV, you will find players with different jobs. 
 
-As you start your journey on GTA:CnR, you will find players with different colors and jobs. 
 As you level up, you gain access to different jobs which you can join by walking up to the job's NPC and switching to it. 
+
 Jobs come with an assortment of different uniforms, vehicles and weapons. To learn more about specific jobs, check out their Guides in the navigation bar.
 
 ### Civilian Jobs
-
 #### Criminal - Level 0+
 
 When you start off your CnR journey, you will spawn as a civilian. As a civilian you can get a wanted level, rob stores, export and scrap vehicles, hunt bounties and more. 
