@@ -127,7 +127,7 @@
         - Delivery Company
         - University
     - Illegal
-        - Arms Supplier
+        - Gun Supplier
         - Drug Supplier
         - Hacker
         - Hitman

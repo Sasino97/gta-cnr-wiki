@@ -1,33 +1,24 @@
 # Jobs
-As you start your journey on CNRV, you will find players with different jobs. 
 
-As you level up, you gain access to different jobs which you can join by walking up to the job's NPC and switching to it. 
+## Switching
+You can switch jobs by going to the specific job's location and interacting with the NPC. The menu will contain an option to switch to that job, or, if you are already on that job, an option to switch back to civilian (unemployed).
 
-Jobs come with an assortment of different uniforms, vehicles and weapons. To learn more about specific jobs, check out their Guides in the navigation bar.
+## Checking a Player's Job
+To check someone's job, the straightforward way is to hold Z to open the scoreboard and find them in there.
 
-### Civilian Jobs
-#### Criminal - Level 0+
+However, there's a less known way which is actually faster and doesnt't require you to browse the scoreboard: the `/i` command; simply type `/i [player id]` and a menu with their job, XP, level and other basic information will show up.
 
-When you start off your CnR journey, you will spawn as a civilian. As a civilian you can get a wanted level, rob stores, export and scrap vehicles, hunt bounties and more. 
-This is the default job that most players use. All civilians can buy and use illegal items such as special rounds, banned guns, drugs, among many more. 
-All civilian jobs share the same loadout, except for job specific inventories.
+## List
+This is a list of jobs as of 0.3.300, sorted by their arrival version in CnR V.
 
-#### Mechanic - Level 3+
-When you are a mechanic, you buy kits at the Hardware Store, modify and repair player owned cars, and tow illegally parked vehicles. 
-
-#### Drug Dealer - Level 5+
-
-You buy drugs at drug suppliers and then sell them to players or at Drug Spots marked on the map. Discover your options and don't get caught, cops can confiscate your expensive drugs when they search you!
-
-
-### Public Service Jobs
-
-#### Paramedic - Level 4+
-
-As a paramedic your blip becomes purple and you get a job-specific weapon and vehicle loadout, usable only as EMS. Your job is to respond to calls and save lifes of players in danger. 
-You can also heal people using your ambulance. Remember that as a Paramedic you cannot help Cops in their crime fighting duties and you must not pursue anyone who attacks you if they flee.
-
-#### Police Officer - Level 7+
-As a cop your blip becomes blue and you get a job-specific weapon and vehicle loadout, usable only as a Police Officer. You can chase and arrest criminals, respond to calls, and assist in arrests. 
-Take down red-blipped criminals with bounties and get rich by accepting bribes from players or seizing their contraband. Cops cannot buy or take illegal drugs and use illegal items while on duty.
-
+| Job             | Min. Level | Paycheck | Switch Location          | Description | Added in Version |
+| ---             | ---        | ---      | ---                      | --- | --- |
+| None            | -          | $12,000  | -                        | Unemployed. You don't have a specific task, and you will get unemployment checks if your bank account balance is below $500,000. | Beta |
+| Police Officer  | 7          | $30,000  | Police Stations          | Enforce the law. You get paid to arrest and kill dangerous criminals. If that sounds dangrous, you can always give tickets. | Beta |
+| Paramedic       | 4          | $35,000  | Hospitals                | Resuscitate and heal players in the most diverse emergency situations. | Beta |
+| Drug Dealer     | 5          | -        | Drug Suppliers           | Buy and resell drugs to players and NPCs. | 0.2.0 |
+| Mechanic        | 3          | $20,000  | Mechanics and Mod Shops  | Fix and mod players' vehicles. | 0.3.0 |
+| Delivery Driver | 6          | $25,000  | Delivery Companies       | Transport stuff around the map. | 0.3.200 |
+| Hitman          | 12         | -        | Hitmen                   | Kill specific players for large sums of money. | 0.3.200 |
+| Medical Doctor  | 8          | $40,000  | University and Hospitals | Cure deadly diseases and sell healing kits. | 0.3.206 |
+| Arms Dealer     | 15         | -        | Illegal Gun Suppliers    | Buy and resell illegal weapons and ammo. | 0.3.207 |

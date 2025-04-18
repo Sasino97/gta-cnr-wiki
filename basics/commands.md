@@ -8,6 +8,7 @@ Here's a non-exhaustive list of the most commonly used commands that you can typ
 | /cleargps                           | -                                                  | Clears the GPS destination (removes the yellow route from your radar).                   |
 | /block [player id]                  | /block 19                                          | Blocks a player, so that you can no longer see what they type or hear what they say.     |
 | /unblock [player id]                | /unblock 19                                        | Unblocks a blocked player.                                                               |
+| /i [player id]                      | /i 19                                              | Views basic information about a certain player, such as their job, level, XP and membership status. |
 | /dms                                | -                                                  | Blocks all incoming direct messages.                                                     |
 | /dm [layer id] [message]            | /dm 19 Wanna rob the jewelry store?                | Sends a direct message to another player.                                                |
 | /r [message]                        | /r sure, let's go                                  | Replies to the last sender.                                                              |
