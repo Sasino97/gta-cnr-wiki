@@ -1,15 +1,16 @@
 # Redzones
-A redzone, or PvP zone, is an area where civilians or criminals can open fire on anyone who enters for any reason.
+A redzone, or PvP zone, is an area where civilians or criminals can open fire on anyone who enters for any reason. 
 
-## Display
 They are marked on the radar and the main map as a red circle, and in the world as a 3D cylinder.
 
-## Static
+![screenshot](/wiki-content/basics/redzones.jpg)
+
+## Static Redzones
 Static redzones are redzones that are always active, and never disappear from the map. 
 
 On [hardcore servers](/wiki/hardcore) there are way more static redzones than on standard servers.
 
-## Bonus
+## Bonus Redzones
 A bonus redzone is a redzone that gives advantages for taking certain actions while inside it.
 
 - Criminals receive a payout for killing cops and paramedics

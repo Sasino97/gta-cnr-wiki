@@ -1,16 +1,18 @@
 # Scoreboard
+![screenshot](/wiki-content/basics/scoreboard.jpg)
+
 Hold Z or d-pad down to view the scoreboard.
 
-While in the scoreboard, you can use the 'PG UP' and 'PG DOWN' or use your middle mouse scroll button to venture through the list of players.
+While viewing the scoreboard, you can use your mouse's scroll wheel to venture through a list of players, and some basic info about them.
 
-The list will show the player's ID, Username, Job, Total XP, Their level (listed as level) and ping (latency), in miliseconds.
+## Explanation
+Here's a brief explanation of each field you see on the scoreboard.
 
-The ID is displayed after a player's username, both above a character's head and also in the in-game chatbot. 
-
-For example: Golfistayt (7) - in this case, Golfistayt's ID is 7. 
-
-ID numbers are progressively assigned by the server upon logging in. 
-
-Your ID will be different each time you login to the server. 
-
-Players can use these numbers to message each other, report other players etc.
+| Field | Explanation |
+| --- | --- |
+| ID | The numerical ID of the player. This ID is assigned progressively upon login, and doesn't change until the player disconnects. |
+| Username | The player's account username. This username is not directly linked to the Steam or FiveM username |
+| Job | The current [job](/wiki/basics/jobs) |
+| XP | The amount of [XP](/wiki/basics/levels) this player has |
+| Level | The [level](/wiki/basics/levels) of the player |
+| Ping | The latency to the server measured in millisecond; the higher, the more likely the player is to experience desync |

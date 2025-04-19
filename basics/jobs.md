@@ -21,4 +21,4 @@ This is a list of jobs as of 0.3.300, sorted by their arrival version in CnR V.
 | Delivery Driver | 6          | $25,000  | Delivery Companies       | Transport stuff around the map. | 0.3.200 |
 | Hitman          | 12         | -        | Hitmen                   | Kill specific players for large sums of money. | 0.3.200 |
 | Medical Doctor  | 8          | $40,000  | University and Hospitals | Cure deadly diseases and sell healing kits. | 0.3.206 |
-| Arms Dealer     | 15         | -        | Illegal Gun Suppliers    | Buy and resell illegal weapons and ammo. | 0.3.207 |
+| Arms Dealer     | 15         | -        | Gun Suppliers            | Buy and resell illegal weapons and ammo. | 0.3.207 |

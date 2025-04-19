@@ -23,3 +23,16 @@ Link an image with the following format: `![alt text](image.jpg)`
 Content hosted on the server can be linked from the `/wiki-content` folder, for example: `![screenshot](/wiki-content/basics/money/screenshot-1.jpg)`.
 
 Please, make sure that screenshots are saved in the .jpg format, and preferrably in the 16:9 format. Animated images should be in the GIF format. Icons and other small things can be in any format, PNG and SVG preferred for those.
+
+## Comments
+HTML-style comments are supported. It's useful sometimes to leave comments for other coders, or to leave certain things out of the wiki temporarily, for example:
+```
+<!--
+This is a comment and it won't show up in the page.
+-->
+# This will show up
+Because it's normal text
+```
+
+Keep in mind that people can view the comments with "View page source".
+<!-- Yes, I knew you would try. -->
