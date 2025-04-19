@@ -16,9 +16,13 @@ If the officer is in a land vehicle, your best bet is shooting at one of the tir
 If the officer is in a helicopter or a plane, a good idea is always shooting at either the rotor or engine respectively, as aearial vehicles are very prone to damage in these locations.
 
 ## Flight
-A fun way to get rid of the police presence is to flee them. If you are a non-violent criminal, it's better for you *not to shoot* when escaping the police, as they cannot attack you unprovoked. Shooting will significantly increase the chances of dying, especially when you are being chased by multiple cops.
+A fun way to get rid of the police is to flee. If you are a non-violent criminal, it's better for you *not to shoot* when escaping the police, as they cannot attack you unprovoked. Shooting will significantly increase the chances of dying, especially when you are being chased by multiple cops.
 
-Los Santos and Blaine County have many tunnels, bridges and roads on which you can escape from the police; and if you are on a [hardcore](/wiki/basics/hardcore) server you can even hide.
+### On-foot Chases
+It's time to get your parkour skills ready! The best way to outrun cops when you are on foot is to find high places and take dangerous jumps. If the cop is in a car and you are on foot, you can jump at the right moment before he rams you; you should also find undestructible objects such as walls and poles, and again, high grounds from where they can't hit you.
+
+### Car Chases
+Get ready for a hot pursuit! San Andreas has many tunnels, bridges and roads in which you can escape from the police; and if you are on a [hardcore](/wiki/basics/hardcore) server you can even hide. Be careful, while it's not very common, some cops use *spike strips* to puncture your tires.
 
 ## Surrendering
 When asked to freeze or pull over by a police officer, you have the choice to hold X to surrender.
