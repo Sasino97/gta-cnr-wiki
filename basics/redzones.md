@@ -13,8 +13,8 @@ On [hardcore servers](/wiki/hardcore) there are way more static redzones than on
 ## Bonus Redzones
 A bonus redzone is a redzone that gives advantages for taking certain actions while inside it.
 
-- Criminals receive a payout for killing cops and paramedics
-- Cops receive a 50% bonus for killing and arresting criminals
+- Criminals receive $50,000 for killing cops and $20,000 for killing paramedics, and a 50% bonus for headshot kills
+- Cops receive a 50% bonus for killing and arresting criminals, and a 50% bonus for headshot kills
 - Paramedics receive a 50% bonus for healing and reviving anyone
 
 There can only be one active bonus redzone at a time.
