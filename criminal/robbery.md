@@ -6,3 +6,5 @@ You will see a success message at the bottom of the screen showing how much you 
 
 Please note that you cannot rob the same place more than once in a row. Go rob another store before returning to rob the same store again. Also, if other players have recently robbed the store, you will need to wait until the store can be robbed again.
 **You are allowed to kill someone who joins your robbery without your permission, as they are taking a share of your money.**
+
+![screenshot](/wiki-content/criminal/robbing.jpg)

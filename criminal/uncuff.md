@@ -1,4 +1,4 @@
-# Criminal Guide - Getting Out of Cuffs
+# Unlocking Handcuffs
 
 When you are cuffed you can hope for one of 3 things:
 

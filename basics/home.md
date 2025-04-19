@@ -4,4 +4,4 @@ Check out all the articles in this section to learn the basics of the game.
 
 Don't forget to read the [rules](/rules) too!
 
-![screenshot](/wiki-content/basics/intro/101.jpg)
+![screenshot](/wiki-content/basics/101.jpg)

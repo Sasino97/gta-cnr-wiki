@@ -22,19 +22,23 @@
     - [Reports](basics/reports)
     - [Staff](basics/staff)
 
-- Criminal Hustles
-    - [Intro](crimguide/homepage)
-    - [What do I do?](crimguide/whatdoido)
-    - [Wanted Level](crimguide/wantedlevel)
-    - [Uncuffing](crimguide/uncuff)
-    - [Fight or Flight](crimguide/fightorflight)
-    - [Robbing](crimguide/robbery)
-    - [Pickpocketing](crimguide/pickpocketing)
-    - [Exporting](crimguide/exporting)
-    - [Drug Dealing](crimguide/drugs)
-    - [Bounty Hunting](crimguide/bounties)
-    - [Hacking](crimguide/atmhack)
-    - [Revenge](crimguide/revenge)
+- Criminal
+    - [Intro](criminal/home)
+    - [Wanted Level](criminal/wantedlevel)
+    - [Crimes](criminal/crimes)
+    - [Tickets](criminal/tickets)
+    - [Custody & Arrest](criminal/arrest)
+    - [Bounties](criminal/bounties)
+    - [Fight or Flight](criminal/fightorflight)
+    - [Unlocking Handcuffs](criminal/uncuff)
+    - [Drugs](criminal/drugs)
+    - [Revenge](criminal/revenge)
+    - Hustles
+        - [Robbing](criminal/robbery)
+        - [Pickpocketing](criminal/pickpocketing)
+        - [Exporting](criminal/exporting)
+        - [Scrapping](criminal/scrapping)
+        - [Hacking](criminal/atmhack)
 
 - Jobs
     - Public Service
