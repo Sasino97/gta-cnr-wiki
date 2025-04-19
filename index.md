@@ -26,7 +26,7 @@
 
 - Criminal
     - [Intro](criminal/home)
-    - [Wanted Level](criminal/wantedlevel)
+    - [Wanted Level](criminal/wanted-level)
     - [Crimes](criminal/crimes)
     - [Tickets](criminal/tickets)
     - [Custody & Arrest](criminal/arrest)
