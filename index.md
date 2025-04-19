@@ -31,7 +31,7 @@
     - [Tickets](criminal/tickets)
     - [Custody & Arrest](criminal/arrest)
     - [Bounties](criminal/bounties)
-    - [Fight or Flight](criminal/fightorflight)
+    - [Fight or Flight](criminal/fight-or-flight)
     - [Uncuffing](criminal/uncuff)
     - [Drugs](criminal/drugs)
     - [Revenge](criminal/revenge)
