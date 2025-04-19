@@ -1,6 +1,8 @@
 # Wanted Level
 Just as in all Grand Theft Auto games, when you commit [crimes](/wiki/criminal/crimes) you will gain stars. These stars, displayed at the top-right of your screen, represent your *Wanted Level*.
 
+Players on a *public service* job are unable to receive a wanted level.
+
 ## Level Meanings
 | Level | Gamertag/Blip Color | Status | Police Action* |
 | --- | --- | --- | --- |

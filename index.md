@@ -35,6 +35,7 @@
     - [Revenge](criminal/revenge)
     - Hustles
         - [Robbing](criminal/robbery)
+        - [Shoplifting](criminal/shoplifting)
         - [Pickpocketing](criminal/pickpocketing)
         - [Exporting](criminal/exporting)
         - [Scrapping](criminal/scrapping)
