@@ -43,6 +43,6 @@ Be wary if a cop is on foot though, as they can easily cuff you when you stand n
 Bribing the police is not available if you are a Most Wanted Suspect.
 
 ## Committing Suicide
-Finally, as a last restore, you can kill your character intentionally to avoid falling in the hands of the police. This is only a choice when the police are not accompanied by paramedics, because paramedics can simply prevent you from respawning, revive you, and hand you over to the police officers in handcuffs.
+Finally, as a last resort, you can kill your character intentionally to avoid falling in the hands of the police. This is only a choice when the police are not accompanied by paramedics, because paramedics can simply prevent you from respawning, revive you, and hand you over to the police officers in handcuffs.
 
 Usually *drug dealers* will choose this option, and they will do it by intentionally taking an overdose amount of their product. If you are unlucky, the police officer could be equipped with *Naloxone*, which is an antidote to drug overdoses, and they will be able to stop your suicide, apprehend you and confiscate your drugs.
