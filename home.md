@@ -16,6 +16,8 @@ The wiki is currently under construction, and a lot of content is still missing.
 ## Credits
 - Golfi (@golfistayt) (main writer)
 - Sasino (@sasino) (reviewer)
+- Betrex (@betrex) (former editor)
+- Horasi (@horasi) (former editor)
 - SoloGrebe (@sologrebe) (original version)
 - All the contributors on [GitHub](https://github.com/Sasino97/gta-cnr-wiki/graphs/contributors)
 
