@@ -32,7 +32,7 @@
     - [Custody & Arrest](criminal/arrest)
     - [Bounties](criminal/bounties)
     - [Fight or Flight](criminal/fightorflight)
-    - [Unlocking Handcuffs](criminal/uncuff)
+    - [Uncuffing](criminal/uncuff)
     - [Drugs](criminal/drugs)
     - [Revenge](criminal/revenge)
     - Criminal Hustles
@@ -156,11 +156,12 @@
             - Barriers and Cones
 
     - Drugs
+        - Weed
         - Cocaine
         - Heroin
         - Meth
         - Codeine
-        - Weed
+        - Naloxone
 
     - Paperwork
         - Insurances
@@ -215,6 +216,7 @@
         - Illegal
 
 - Clothes
+
 - Vehicles
     - Personal
     - Job Vehicles

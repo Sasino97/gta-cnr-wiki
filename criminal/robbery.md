@@ -1,4 +1,4 @@
-# Criminal Guide - Robbing Stores
+# Robberies
 
 You will find businesses scattered around San Andreas that can be robbed to obtain cash. To rob these stores, get inside of them, aim a gun at the NPC and shoot around him to fill up the intimidation bar which increases your payout. 
 If you rob the store with someone else, they can crack open the safe to secure a bigger payout. Continue aiming at the NPC until he either cannot give more and the robbery succeeds or you have to leave. 

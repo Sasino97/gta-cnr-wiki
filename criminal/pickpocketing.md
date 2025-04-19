@@ -1,4 +1,4 @@
-# Criminal Guide - Pickpocketing
+# Pickpocketing
 Pickpocketing NPCs or players is a quick way to make some cash when in a tight spot. 
 
 In order to rob an NPC, they need to be in neutral stance. This means they are sitting idle, standing idle, or walking about, and not engaging you, another player or npc in any way (such as fighting or running away).

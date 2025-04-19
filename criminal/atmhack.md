@@ -1,4 +1,4 @@
-# Criminal Guide - Hacking ATMs
+# Hacking ATMs
 Visit Lester in El Burro Heights. The place is marked on the map as a computer icon. He is in a house near the marker.
  He can sell you an ATM hacking kit for around $80K. Note: You can only carry 3 of these kits max at any given time.
 

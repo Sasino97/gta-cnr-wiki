@@ -1,7 +1,8 @@
 # Scoreboard
+Hold Z or d-pad down to view the scoreboard.
+
 ![screenshot](/wiki-content/basics/scoreboard.jpg)
 
-Hold Z or d-pad down to view the scoreboard.
 
 While viewing the scoreboard, you can use your mouse's scroll wheel to venture through a list of players, and some basic info about them.
 
