@@ -7,9 +7,10 @@ Different players have specific colors on their gamertags and radar blips, check
 | Yellow | Civilian that committed a minor infraction |
 | Orange | Suspect wanted for arrest. The darker the shade, the higher the wanted level of the suspect. |
 | Red | Most Wanted Suspect (Bounty) |
-| Light Gray | Mechanic (innocent) |
 | Blue | Law Enforcement Officer |
 | Purple | Paramedic |
+| Light Gray | Mechanic (innocent) |
+| Flamingo Pink | Medical Doctor (innocent) |
 | Green | CNRV Moderator on Duty |
 | Flashing White | Cuffed suspect |
 | Flashing Dark Gray | Player that needs to be revived |
