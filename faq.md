@@ -14,7 +14,7 @@ You earn [money](/wiki/basics/money) by working any of the [jobs](/wiki/basics/j
 You earn [XP](/wiki/basics/levels) by working any of the [jobs](/wiki/basics/jobs) and [criminal hustles](/wiki/criminal/home) that CNRV has to offer. By earning XP you will level up gradually.
 
 #### How to buy a car?
-You can buy personal and job vehicles at the dealerships marked on the map.
+You can buy personal and job vehicles at the several dealerships marked on the map. There are three types of dealerships: a used car dealer, a normal car dealer, and a luxury car dealer.
 
 #### How to become a member?
 You can purchase a Premium Membership in our [store](/store).
