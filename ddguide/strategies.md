@@ -3,15 +3,18 @@ As a drug dealer you risk a lot carrying drugs on you as they can be confiscated
 
 **Don't be Greedy!**
 
-If you own a Warehouse, put all your drugs in there and only take out around 200 grams at a time. If cops catch you, the losses will be a lot smaller than if you carried your whole stash on you.
+If you own a [Warehouse](../assets/warehouses.md), put all your drugs in there and only take out around 200 grams at a time. If cops catch you, the losses will be a lot smaller than if you carried your whole stash on you.
 
 **Overdose**
 
 If cops are about to seize your drugs, have a bit of meth/heroin in your INVENTORY [not job inventory] and use one of the following commands:
 
-use meth 5 or use heroin 5
+`/use meth 5` or `/use heroin 5`
 
-This will overdose you and make you die, making the cops unable to seize your drugs.
+This will overdose you and make you die, making the cops unable to seize your drugs, unless they have naxolone.
+<!--
+Should probably also mention naxalone in the items section
+-->
 
 **Arsonist**
 

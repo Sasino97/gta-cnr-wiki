@@ -33,7 +33,7 @@ The following is a list of the current crimes, as of version 0.3.300.
 | Resisting Arrest                 | 2   | 4   | No  | Resist being handcuffed |
 | Freeing a Suspect                | 2   | 4   | No  | Free a suspect from police custody |
 | Harboring a Fugitive             | 2   | 4   | No  | Drive with a suspect as a passenger |
-| Hit and Run                      | 2   | 4   | Yes | Hit a player or NPC with a vehicle |
+| Hit and Run                      | 1   | 2   | No  | Hit a player or NPC with a vehicle |
 | Assault                          | 2   | 4   | Yes | Hit someone with your bare hands |
 | Assault with a Deadly Weapon     | 2   | 4   | Yes | Shoot at someone with a firearm |
 | Assault on an Officer            | 4   | 5   | Yes | Hit or shoot at a police officer |
