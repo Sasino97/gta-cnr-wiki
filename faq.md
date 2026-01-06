@@ -5,7 +5,7 @@ No, Cops and Robbers V is a "CnR" server, a type of server where players can be 
 
 Some features might be RP-like, but overall the server is not meant to recreate a realistic roleplay environment, even though it's completely fine to do so with your friends.
 
-The server has RPG components, such as the XP & Level system, and level-locked content, that require the player to grind in order to rise, level up and get that exclusive content.
+The server has MMORPG components, such as the XP & level system, and level-locked content, that require the player to grind in order to rise, level up and get that exclusive content. It also includes achievements, stats and daily challenges, to increase the sense of reward and progression.
 
 #### How to make money?
 You earn [money](/wiki/basics/money) by working any of the [jobs](/wiki/basics/jobs) and [criminal hustles](/wiki/criminal/home) that CNRV has to offer.
