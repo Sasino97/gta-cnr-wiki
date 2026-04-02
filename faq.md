@@ -1,3 +1,8 @@
+---
+lastEdit: "09/12/2025"
+---
+<!-- toc -->
+
 # Frequently Asked Questions
 
 #### Is this a roleplay server?
