@@ -16,7 +16,7 @@ Page and folder names must be **lowercase**, only contain **alphanumeric** chara
 ## Images
 In most cases, images should be hosted on the website directly, instead of linked from outside. 
 
-Just send your images to Golfi or Sasino to get them reviewed and added to the content folder. 
+Just send your images to Golfi, Mihaaaawk or Sasino to get them reviewed and added to the content folder. 
 
 Link an image with the following format: `![alt text](image.jpg)`
 
