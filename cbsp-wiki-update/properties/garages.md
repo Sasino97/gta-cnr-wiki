@@ -3,7 +3,7 @@
 ## Introduction
 A **garage**<Blip type="owned_garage" margintop="-5px" />is essential if you want to **buy** [**personal vehicles**](./../gameplay/personal-vehicles) or simply **store your stolen vehicles**!
 
-You can look at the [**property map**](https://map.cbsp-cnr.eu/) on the **CBŚP Website**.
+You can look at the [**property map**](https://gtacnr.net/map) on the website.
 
 <Aside>If you **don't have the required level** you **can't buy some garages**.</Aside>
 
